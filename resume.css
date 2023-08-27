@@ -1,0 +1,69 @@
+/* Reset some default styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  header {
+    text-align: center;
+    background-color: #985df8;
+    color: #fff;
+    padding: 1rem 0;
+  }
+  
+  header h1 {
+    margin-bottom: 0.5rem;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+  }
+  
+  section {
+    margin-bottom: 1.5rem;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  p {
+    font-size: 1.1rem;
+  }
+  
+  .contact p {
+    margin-bottom: 0.5rem;
+  }
+  
+  .contact h2{
+    color: #a56ffb;
+  }
+  .education h2{
+    color: #a56ffb;
+  }
+  .experience h2{
+    color: #a56ffb;
+  }
+  .info
+  {
+    background-color: hsl(268, 100%, 88%);
+    padding-left: 10px;
+  }
+  .ed
+  {
+    background-color: hsl(268, 100%, 88%);
+    padding-left: 10px;
+  }
+  .exp
+  {
+    background-color: hsl(268, 100%, 88%);
+    padding-left: 10px;
+  }
